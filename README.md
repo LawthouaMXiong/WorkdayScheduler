@@ -1,4 +1,4 @@
-# Challenge 4 - 04 Web-APIs: Code Quiz
+# Challenge 5: Workday Scheduler
 
 ## **Description:**
 Work Day Scheduler
@@ -24,5 +24,5 @@ WHEN I refresh the page<br /><br />
 THEN the saved events persist<br />
 
 ## **Links to Portfolio**
-* GitHub Repository Link - https://github.com/LawthouaMXiong/Challenge5
-* GitHub Pages Deployed Link - https://lawthouamxiong.github.io/Challenge5/
+* GitHub Repository Link - https://github.com/LawthouaMXiong/WorkdayScheduler
+* GitHub Pages Deployed Link - https://lawthouamxiong.github.io/WorkdayScheduler/
